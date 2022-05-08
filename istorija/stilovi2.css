@@ -1,0 +1,30 @@
+
+body{
+
+    background-color:honeydew;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    font-family: book antiqua;
+    text-align: center;
+    color: lightgreen;
+}
+h3{
+    font-family: fantasy;
+   
+}
+h4{
+    font-family: sans-serif;
+    color: plum;
+}
+pre{
+    font-family: fantasy;
+}
+.paragraf{
+    text-indent: 15px ;
+}
+.boja1{
+    color: plum;
+    font-style: italic;
+}
